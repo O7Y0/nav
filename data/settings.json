@@ -2,7 +2,7 @@
   "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "random",
+  "loading": "null",
   "showGithub": false,
   "title": "米兰",
   "description": "",
