@@ -18,11 +18,17 @@
       "url": "",
       "width": null,
       "height": null
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/O7Y0/nav@image/nav-1647682998518-96764637_p0_master1200.jpg",
+      "url": "https://acgpic.net/c/540x540_70/img-master/img/2022/03/08/14/23/42/96764637_p0_master1200.jpg",
+      "width": null,
+      "height": null
     }
   ],
   "simThemeDesc": "这里收录多达 <b>${total}</b> 个优质网站， 助您工作、学习和生活",
   "simThemeHeight": 236,
-  "simThemeAutoplay": false,
+  "simThemeAutoplay": true,
   "sideThemeImages": [
     {
       "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
